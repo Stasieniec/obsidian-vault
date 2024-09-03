@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "b78f2574d3aa3618",
+    "type": "split",
+    "children": [
+      {
+        "id": "0567e4126cb04de6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd29ba5c3ff91f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus 1/A note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ed061b24a07d3c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00790d5ea27aac5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd292e097789c4c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b8d0599ff2d4fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11c91f1c19371429",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "387fec85e8341902",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4fdb8ecb57c7a9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cbd01eed0b3a2d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f55a5c6b8663577",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Robotics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3543074bc32b096a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Robotics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "272b501adea77bb8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81ea1f25f4b97151",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Robotics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "49b8d0599ff2d4fe",
+  "lastOpenFiles": [
+    "Intro to reinforcement Learning",
+    "Calculus 1/A note.md",
+    "Robotics.md",
+    "Calculus 1"
+  ]
+}
