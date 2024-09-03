@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3ed061b24a07d3c8",
+            "id": "3d826b68c7af6f60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics.md",
+                "file": "General/TODO University.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics.md",
+                "file": "General/TODO University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics.md",
+                "file": "General/TODO University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics.md"
+                "file": "General/TODO University.md"
               }
             }
           }
@@ -159,11 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49b8d0599ff2d4fe",
+  "active": "3d826b68c7af6f60",
   "lastOpenFiles": [
-    "Intro to reinforcement Learning",
-    "Calculus 1/A note.md",
     "Robotics.md",
+    "General/TODO University.md",
+    "General",
+    "Great minds 1",
+    "Robotics",
+    "Calculus 1/A note.md",
+    "Intro to reinforcement Learning",
     "Calculus 1"
   ]
 }
