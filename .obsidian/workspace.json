@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0567e4126cb04de6",
+        "id": "17ad4e80f1490570",
         "type": "tabs",
         "children": [
           {
-            "id": "bd29ba5c3ff91f1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus 1/A note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d826b68c7af6f60",
+            "id": "d3123200f9feb782",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7761db1712bfb96d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics/Lecture 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8381fdbce413853f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus 1/P1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "773670ffda3ede31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus 1/P2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/TODO University.md",
+                "file": "Calculus 1/P2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/TODO University.md",
+                "file": "Calculus 1/P2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/TODO University.md"
+                "file": "Calculus 1/P2.md"
               }
             }
           }
@@ -159,14 +183,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d826b68c7af6f60",
+  "active": "49b8d0599ff2d4fe",
   "lastOpenFiles": [
-    "Robotics.md",
+    "Calculus 1/P1.md",
+    "Calculus 1/P2.md",
+    "Into to Reinforcement Learning/Lecture 2.md",
+    "Robotics/Lecture 2.md",
+    "Into to Reinforcement Learning",
     "General/TODO University.md",
+    "Great minds 1/Lecture 1.md",
+    "2024-09-04.md",
+    "Untitled.canvas",
+    "Robotics.md",
     "General",
     "Great minds 1",
     "Robotics",
-    "Calculus 1/A note.md",
     "Intro to reinforcement Learning",
     "Calculus 1"
   ]
