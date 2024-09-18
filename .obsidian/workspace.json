@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics/Book notes/Chapter 2.md",
+                "file": "Into to Reinforcement Learning/Lecture 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics/Book notes/Chapter 2.md",
+                "file": "Into to Reinforcement Learning/Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics/Book notes/Chapter 2.md",
+                "file": "Into to Reinforcement Learning/Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics/Book notes/Chapter 2.md"
+                "file": "Into to Reinforcement Learning/Lecture 5.md"
               }
             }
           }
@@ -197,14 +197,17 @@
   },
   "active": "a7e7a5f2fbad878e",
   "lastOpenFiles": [
-    "Robotics/Book notes/Chapter 1.md",
+    "Into to Reinforcement Learning/Lecture 4.md",
+    "Into to Reinforcement Learning/Lecture 5.md",
+    "Into to Reinforcement Learning/Lecture 3.md",
+    "Into to Reinforcement Learning/Lecture 2.md",
     "Robotics/Book notes/Chapter 2.md",
+    "Robotics/Book notes/Chapter 1.md",
     "Robotics/Lecture 2.md",
     "Robotics/Book notes",
     "General/TODO University.md",
     "Calculus 1/P1.md",
     "Calculus 1/P2.md",
-    "Into to Reinforcement Learning/Lecture 2.md",
     "Into to Reinforcement Learning",
     "Great minds 1/Lecture 1.md",
     "2024-09-04.md",
